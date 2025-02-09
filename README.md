@@ -15,4 +15,4 @@ This is an analysis based on the day to day activities in the gym to create insi
 -	What is the Relationship between hydration and other factors to calories burned 
 -	Age distribution across bmi
 -	What is the number of gym members in the different BMI categories?
-
+-Dashboard interaction <a href ="https://github.com/SAMUELAY1/DATA-ANALYSIS-EXCEL/blob/main/Screenshot%202025-02-09%20at%2001.58.05.png"> View Dashboard</a>
